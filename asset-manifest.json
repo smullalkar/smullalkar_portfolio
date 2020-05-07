@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/smullalkar_portfolio/static/css/main.f0952903.chunk.css",
+    "main.js": "/smullalkar_portfolio/static/js/main.b9219b75.chunk.js",
+    "main.js.map": "/smullalkar_portfolio/static/js/main.b9219b75.chunk.js.map",
+    "runtime-main.js": "/smullalkar_portfolio/static/js/runtime-main.22fd46f1.js",
+    "runtime-main.js.map": "/smullalkar_portfolio/static/js/runtime-main.22fd46f1.js.map",
+    "static/css/2.69121389.chunk.css": "/smullalkar_portfolio/static/css/2.69121389.chunk.css",
+    "static/js/2.12e79f52.chunk.js": "/smullalkar_portfolio/static/js/2.12e79f52.chunk.js",
+    "static/js/2.12e79f52.chunk.js.map": "/smullalkar_portfolio/static/js/2.12e79f52.chunk.js.map",
+    "index.html": "/smullalkar_portfolio/index.html",
+    "precache-manifest.bc23103de58c8d8dfba64c071adc8b92.js": "/smullalkar_portfolio/precache-manifest.bc23103de58c8d8dfba64c071adc8b92.js",
+    "service-worker.js": "/smullalkar_portfolio/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/smullalkar_portfolio/static/css/2.69121389.chunk.css.map",
+    "static/css/main.f0952903.chunk.css.map": "/smullalkar_portfolio/static/css/main.f0952903.chunk.css.map",
+    "static/js/2.12e79f52.chunk.js.LICENSE.txt": "/smullalkar_portfolio/static/js/2.12e79f52.chunk.js.LICENSE.txt",
+    "static/media/IMG_3392.jpg": "/smullalkar_portfolio/static/media/IMG_3392.9989aa1d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22fd46f1.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.12e79f52.chunk.js",
+    "static/css/main.f0952903.chunk.css",
+    "static/js/main.b9219b75.chunk.js"
+  ]
+}

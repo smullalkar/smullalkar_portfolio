@@ -61,31 +61,32 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-            <br />
-            <div className='row'>
-                <div className='col m-auto text-center d-flex justify-content-center'>
-                    <div className='row'>
-                        <figure>
-                            <img alt='img' className='mx-5 my-2 rounded-circle' src={require('../Components/react.svg')} style={{ height: '100px', width: '100px' }}></img>
-                            <figcaption>REACT</figcaption>
-                        </figure>
-                    </div>
-                    <div className='row'>
-                        <figure>
-                            <img alt='img' className='mx-5 my-2' src={require('../Components/javascript.svg')} style={{ height: '100px', width: '100px', borderRadius: '15px' }}></img>
-                            <figcaption>JavaScript</figcaption>
-                        </figure>
-                    </div>
-                    <div className='row'>
-                        <figure>
-                            <img alt='img' className='mx-5 my-2' src={require('../Components/redux.svg')} style={{ height: '100px', width: '100px', borderRadius: '15px' }}></img>
-                            <figcaption>REDUX</figcaption>
-                        </figure>
-                    </div>
-                    {/* <figure>
+                <br/>
+                <div className='row'>
+                    <div className='col m-auto text-center d-flex justify-content-center'>
+                        <div className='row'>
+                            <figure>
+                                <img alt='img' className='mx-5 my-2 rounded-circle' src={require('../Components/react.svg')} style={{ height: '100px', width: '100px' }}></img>
+                                <figcaption>REACT</figcaption>
+                            </figure>
+                        </div>
+                        <div className='row'>
+                            <figure>
+                                <img alt='img' className='mx-5 my-2' src={require('../Components/javascript.svg')} style={{ height: '100px', width: '100px', borderRadius: '15px' }}></img>
+                                <figcaption>JavaScript</figcaption>
+                            </figure>
+                        </div>
+                        <div className='row'>
+                            <figure>
+                                <img alt='img' className='mx-5 my-2' src ={require('../Components/redux.svg')} style={{ height: '100px', width: '100px', borderRadius: '15px' }}></img>
+                                <figcaption>REDUX</figcaption>
+                            </figure>
+                        </div>
+                        {/* <figure>
                         <img className='mx-5 my-2' src='/js1.png' style={{height:'100px', width: '100px',borderRadius: '15px'}}></img>
                         <figcaption>JavaScript</figcaption>
                     </figure> */}
+                    </div>
                 </div>
             </div>
         </div>

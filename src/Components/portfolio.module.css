@@ -23,18 +23,45 @@
 .proficiencies{
     margin: auto;
     font-weight: bolder;
-    font-size: 33px;
+    font-size: 38px;
     color: #707070;   
 }
 
+.project{
+    margin: auto;
+    font-weight: bolder;
+    font-size: 38px;
+    color: #707070;  
+    padding: 40px; 
+}
+
 .projectTitle{
+    margin: auto;
+    font-weight: bolder;
+    font-size: 27px;
+    color: #707070;
+}
+
+.projectDes{
+    font-weight: bold;
+    color: #707070;
+    font-size: 15px;
+}
+
+.work{
     margin: auto;
     font-weight: bolder;
     font-size: 33px;
     color: #707070;
 }
 
-.projectDes{
+.label{
+    font-weight: bold;
+    color: #707070;
+    font-size: 19px;
+}
+
+figure figcaption{
     font-weight: bold;
     color: #707070;
     font-size: 19px;

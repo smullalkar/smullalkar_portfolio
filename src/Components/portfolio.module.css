@@ -19,3 +19,23 @@
     font-size: 18px;
     color: #A8A8A8;
 }
+
+.proficiencies{
+    margin: auto;
+    font-weight: bolder;
+    font-size: 33px;
+    color: #707070;   
+}
+
+.projectTitle{
+    margin: auto;
+    font-weight: bolder;
+    font-size: 33px;
+    color: #707070;
+}
+
+.projectDes{
+    font-weight: bold;
+    color: #707070;
+    font-size: 19px;
+}

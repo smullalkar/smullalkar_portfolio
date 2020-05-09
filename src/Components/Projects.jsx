@@ -5,7 +5,7 @@ import styles from './portfolio.module.css'
 
 export default function Projects() {
     return (
-        <div className='bg-warning container-fluid'>
+        <div className='container-fluid' style={{backgroundColor:'#FECD55'}}>
             <br/>
             <br/>
             <h1 className={styles.project}>Projects</h1>
@@ -24,6 +24,14 @@ export default function Projects() {
                                 <div className='col-7 d-flex justify-content-start'>             
                                     <FontAwesomeIcon icon={faLink} style={{ color: '#707070', marginRight: '5px', position:'relative' ,top:'6px' }} />                       
                                     <a href='https://router-project.now.sh/' style={{color:'#707070'}}> Demo Link</a>
+                                </div>
+                            </div>
+                            <hr/>
+                            <div className='row'>
+                                <div className='col'>
+                                    <img className='mx-2' alt='img' src={require('../Components/react.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/react-router.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/bootstrap.svg')} style={{ height: '30px', width: '30px' }}></img>
                                 </div>
                             </div>
                         </div>
@@ -45,6 +53,14 @@ export default function Projects() {
                                     <a href='https://github-job-portal.now.sh/' style={{color:'#707070'}}> Demo Link</a>
                                 </div>
                             </div>
+                            <hr/>
+                            <div className='row'>
+                                <div className='col'>
+                                    <img className='mx-2' alt='img' src={require('../Components/react.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/react-router.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/bootstrap.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -62,6 +78,14 @@ export default function Projects() {
                                 <div className='col-7 d-flex justify-content-start'>             
                                     <FontAwesomeIcon icon={faLink} style={{ color: '#707070', marginRight: '5px', position:'relative' ,top:'6px' }} />                       
                                     <a href='https://router-project.now.sh/' style={{color:'#707070'}}> Demo Link</a>
+                                </div>
+                            </div>
+                            <hr/>
+                            <div className='row'>
+                                <div className='col'>
+                                    <img className='mx-2' alt='img' src={require('../Components/react.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/react-router.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/bootstrap.svg')} style={{ height: '30px', width: '30px' }}></img>
                                 </div>
                             </div>
                         </div>

@@ -103,11 +103,10 @@ export default function Home() {
                     </div>
                     <div className='col-lg-3 col-md-3 col-sm-6 col-xs-6'>
                         <figure>
-                            <img alt='img' className='mx-5 my-2' src={require('../Components/python.svg')} style={{ height: '100px', width: '100px', borderRadius: '15px' }}></img>
-                            <figcaption>PYTHON</figcaption>
+                            <img alt='img' className='mx-5 my-2' src={require('../Components/react-router.svg')} style={{ height: '100px', width: '100px', borderRadius: '15px' }}></img>
+                            <figcaption>REACT-ROUTER</figcaption>
                         </figure>
                     </div>
-
                 </div>
             </div>
         </div>

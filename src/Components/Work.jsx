@@ -6,8 +6,8 @@ export default function Work() {
         <div className='container-flow'>
             <div className='row m-5 p-5'>
                 <div className='col'>
-                    <h1 className={styles.work} style={{ padding: '50px', border: '20px solid #FECD55', borderRadius: '100%' }}>
-                        1000+
+                    <h1 className={styles.work} style={{ height:'160px', width:'160px',marginTop:'10px', border: '20px solid #FECD55', borderRadius: '100%' }}>
+                        <span style={{position:'relative', top:'40px'}}>1000+</span>
                     </h1>
                     <div className={styles.label} >
                         Hours <br />
@@ -15,8 +15,8 @@ export default function Work() {
                     </div>
                 </div>
                 <div className='col'>
-                    <h1 className={styles.work}  style={{ padding: '50px', border: '20px solid #FECD55', borderRadius: '100%' }}>
-                        100+
+                    <h1 className={styles.work}  style={{ height:'160px', width:'160px',marginTop:'10px', border: '20px solid #FECD55', borderRadius: '100%' }}>
+                    <span style={{position:'relative', top:'40px'}}>100+</span>
                     </h1>
                     <div className={styles.label}>
                         Hackerank <br />
@@ -24,8 +24,8 @@ export default function Work() {
                     </div>
                 </div>
                 <div className='col'>
-                    <h1 className={styles.work}  style={{ padding: '50px', border: '20px solid #FECD55', borderRadius: '100%' }}>
-                        120+
+                    <h1 className={styles.work}  style={{ height:'160px', width:'160px',marginTop:'10px', border: '20px solid #FECD55', borderRadius: '100%' }}>
+                    <span style={{position:'relative', top:'40px'}}>120+</span>
                     </h1>
                     <div className={styles.label}>
                         Git <br />
@@ -33,8 +33,8 @@ export default function Work() {
                     </div>
                 </div>
                 <div className='col'>
-                    <h1 className={styles.work}  style={{ padding: '50px', border: '20px solid #FECD55', borderRadius: '100%' }}>
-                        100+
+                    <h1 className={styles.work}  style={{ height:'160px', width:'160px',marginTop:'10px', border: '20px solid #FECD55', borderRadius: '100%' }}>
+                    <span style={{position:'relative', top:'40px'}}>100+</span>
                     </h1>
                     <div className={styles.label}>
                         Hours <br />

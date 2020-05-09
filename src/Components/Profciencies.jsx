@@ -9,6 +9,8 @@ export default function Profciencies() {
             <br />
             <br />
             <h1 className={styles.proficiencies}>Proficiencies</h1>
+            <br/>
+            <br/>
             <div className='row ml-md-5 ml-lg-0 pl-lg-0 pl-md-5 pl-sm-0 mr-lg-5 mr-md-0 mr-sm-0 mr-0'>
                 <div className='col-lg-3 col-md-5 col-sm-12 col-xs-12'>
                     <figure>

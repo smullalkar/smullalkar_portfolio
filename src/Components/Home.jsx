@@ -23,11 +23,11 @@ export default function Home() {
                     </div>
                     <div className='col-lg-2 col-md-2 col-sm-12 col-xs-12 d-flex justify-content-md-center justify-content-sm-center justify-content-center'>
                         <FontAwesomeIcon icon={faPhone} style={{ color: '#FECD55', marginRight: '5px', position: 'relative', top: '6px' }} />
-                        <span className={styles.locationFontsize} href='https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.954517,77.3507316,10z/data=!3m1!4b1!4m5!3m4!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0!8m2!3d12.9715987!4d77.5945627'>+91 812 3332 662</span>
+                        <span className={styles.locationFontsize}>+91 812 3332 662</span>
                     </div>
                     <div className='col-lg col-md col-sm-12 col-xs-12 d-flex justify-content-lg-start justify-content-md-center justify-content-sm-center justify-content-center'>
                         <FontAwesomeIcon icon={faMailBulk} style={{ color: '#FECD55', marginRight: '5px', position: 'relative', top: '6px' }} />
-                        <span className={styles.locationFontsize} href='https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.954517,77.3507316,10z/data=!3m1!4b1!4m5!3m4!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0!8m2!3d12.9715987!4d77.5945627'>smullalkar@gmail.com</span>
+                        <span className={styles.locationFontsize}>smullalkar@gmail.com</span>
                     </div>
                 </div>
             </div>

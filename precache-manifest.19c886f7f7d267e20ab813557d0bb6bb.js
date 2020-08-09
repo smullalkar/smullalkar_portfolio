@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c271c2350c6a2a928537c8b34ff9c244",
+    "revision": "856c954e24f1c90765d1d41b4471c4ae",
     "url": "/smullalkar_portfolio/index.html"
   },
   {
-    "revision": "1ebce58e04bfaf44ce60",
+    "revision": "428c8c09741d21da057a",
     "url": "/smullalkar_portfolio/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "4d604d90f57748fc061f",
+    "revision": "60137a312b1fb7728511",
     "url": "/smullalkar_portfolio/static/css/main.1788d148.chunk.css"
   },
   {
-    "revision": "1ebce58e04bfaf44ce60",
-    "url": "/smullalkar_portfolio/static/js/2.e9cc7c65.chunk.js"
+    "revision": "428c8c09741d21da057a",
+    "url": "/smullalkar_portfolio/static/js/2.aac000db.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/smullalkar_portfolio/static/js/2.e9cc7c65.chunk.js.LICENSE.txt"
+    "url": "/smullalkar_portfolio/static/js/2.aac000db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d604d90f57748fc061f",
-    "url": "/smullalkar_portfolio/static/js/main.45b160c6.chunk.js"
+    "revision": "60137a312b1fb7728511",
+    "url": "/smullalkar_portfolio/static/js/main.849a98c6.chunk.js"
   },
   {
     "revision": "77546001560ab0499138",
@@ -52,12 +52,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smullalkar_portfolio/static/media/all-in-one.44f06f27.jpg"
   },
   {
+    "revision": "54c02a962f82ca2ea30e9271cf71b6d6",
+    "url": "/smullalkar_portfolio/static/media/aws-ec2.54c02a96.svg"
+  },
+  {
     "revision": "71e42b5a8d6c0d6628ec8840cc4030e9",
     "url": "/smullalkar_portfolio/static/media/bootstrap.71e42b5a.svg"
   },
   {
+    "revision": "34abad077daaefcab1952459fe762072",
+    "url": "/smullalkar_portfolio/static/media/covid-19.34abad07.jpg"
+  },
+  {
     "revision": "d3ad67fa720fd7aee8c322caff911082",
     "url": "/smullalkar_portfolio/static/media/css-3.d3ad67fa.svg"
+  },
+  {
+    "revision": "318d58cbc47ace3e1baf4f035cab5b53",
+    "url": "/smullalkar_portfolio/static/media/flask.318d58cb.svg"
   },
   {
     "revision": "0255bf2cd6e42c2fdbe2e189e418929f",
@@ -80,8 +92,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smullalkar_portfolio/static/media/jobs.1c78b77b.jpg"
   },
   {
+    "revision": "6ff17bd2dc7d786853da589cb373d553",
+    "url": "/smullalkar_portfolio/static/media/jquery.6ff17bd2.svg"
+  },
+  {
     "revision": "0a02fac0eb37309136a725b35b938ad6",
     "url": "/smullalkar_portfolio/static/media/linkedin.0a02fac0.svg"
+  },
+  {
+    "revision": "e6344600622f29468456dd9fc40a11eb",
+    "url": "/smullalkar_portfolio/static/media/marks_recorder.e6344600.jpg"
+  },
+  {
+    "revision": "ba99aecd075dddfb01b64b37724165fb",
+    "url": "/smullalkar_portfolio/static/media/material-ui.ba99aecd.svg"
   },
   {
     "revision": "d7396d6757fd902f37f8d5b15dcac37d",

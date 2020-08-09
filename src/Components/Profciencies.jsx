@@ -37,7 +37,7 @@ export default function Profciencies() {
                 <div className='col m-auto text-center d-flex justify-content-center'>
                     <div className='row'>
                         <figure>
-                            <img className='mx-5 my-2' src={require('../Components/github_graph.jpg')} style={{ height: '100%', width: '70%' }}></img>
+                            <img className='mx-5 my-2' src={require('../Components/github_graph.jpg')} style={{ height: '250px', width: '90%' }}></img>
                         </figure>
                     </div>
                 </div>

@@ -7,7 +7,7 @@ export default function Work() {
             <div className='row m-5 p-5'>
                 <div className='col'>
                     <h1 className={styles.work} style={{ height:'160px', width:'160px',marginTop:'10px', border: '20px solid #FECD55', borderRadius: '100%' }}>
-                        <span style={{position:'relative', top:'40px'}}>1000+</span>
+                        <span style={{position:'relative', top:'40px'}}>1200+</span>
                     </h1>
                     <div className={styles.label} >
                         Hours <br />
@@ -16,7 +16,7 @@ export default function Work() {
                 </div>
                 <div className='col'>
                     <h1 className={styles.work}  style={{ height:'160px', width:'160px',marginTop:'10px', border: '20px solid #FECD55', borderRadius: '100%' }}>
-                    <span style={{position:'relative', top:'40px'}}>100+</span>
+                    <span style={{position:'relative', top:'40px'}}>200+</span>
                     </h1>
                     <div className={styles.label}>
                         Hackerank <br />
@@ -25,7 +25,7 @@ export default function Work() {
                 </div>
                 <div className='col'>
                     <h1 className={styles.work}  style={{ height:'160px', width:'160px',marginTop:'10px', border: '20px solid #FECD55', borderRadius: '100%' }}>
-                    <span style={{position:'relative', top:'40px'}}>120+</span>
+                    <span style={{position:'relative', top:'40px'}}>190+</span>
                     </h1>
                     <div className={styles.label}>
                         Git <br />

@@ -84,7 +84,7 @@ export default function Projects() {
                                 </div>
                                 <div className='col-7 d-flex justify-content-start'>
                                     <FontAwesomeIcon icon={faLink} style={{ color: '#707070', marginRight: '5px', position: 'relative', top: '6px' }} />
-                                    <a href='allinone.smullalkar.tech' style={{ color: '#707070' }}> Demo Link</a>
+                                    <a href='https://allinoneproject.smullalkar.tech' style={{ color: '#707070' }}> Demo Link</a>
                                 </div>
                             </div>
                             <hr />

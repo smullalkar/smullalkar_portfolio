@@ -108,6 +108,33 @@ export default function Home() {
                         </figure>
                     </div>
                 </div>
+                <br />
+                <div className='row'>
+                    <div className='col-lg-3 col-md-3 col-sm-6 col-xs-6'>
+                        <figure>
+                            <img alt='img' className='mx-5 my-2 rounded-circle' src={require('../Components/python.svg')} style={{ height: '100px', width: '100px' }}></img>
+                            <figcaption>PYTHON</figcaption>
+                        </figure>
+                    </div>
+                    <div className='col-lg-3 col-md-3 col-sm-6 col-xs-6'>
+                        <figure>
+                            <img alt='img' className='mx-5 my-2' src={require('../Components/flask.svg')} style={{ height: '100px', width: '100px', borderRadius: '15px' }}></img>
+                            <figcaption>FLASK</figcaption>
+                        </figure>
+                    </div>
+                    <div className='col-lg-3 col-md-3 col-sm-6 col-xs-6'>
+                        <figure>
+                            <img alt='img' className='mx-5 my-2' src={require('../Components/mysql.svg')} style={{ height: '100px', width: '100px', borderRadius: '15px' }}></img>
+                            <figcaption>MYSQL</figcaption>
+                        </figure>
+                    </div>
+                    <div className='col-lg-3 col-md-3 col-sm-6 col-xs-6'>
+                        <figure>
+                            <img alt='img' className='mx-5 my-2' src={require('../Components/aws-ec2.svg')} style={{ height: '100px', width: '100px', borderRadius: '15px' }}></img>
+                            <figcaption>AWS-EC2</figcaption>
+                        </figure>
+                    </div>
+                </div>
             </div>
         </div>
     )

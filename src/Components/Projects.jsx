@@ -16,7 +16,7 @@ export default function Projects() {
                         <div className="card-body">
                             <h5 className="card-title" className={styles.projectTitle}>POS App</h5>
                             <hr />
-                            <p className="card-text" className={styles.projectDes}>Point of sale!<br /> this application is made using react, redux, react-router, bootstrap, flask, mysqlsb <br /> Users can manage stock data, supplier's data, customer's data, and they can also generate the bills!</p>
+                            <p className="card-text" className={styles.projectDes}>Point of sale!<br /> very first end to end application built using react,redux,flask,and mysql <br /> Users can manage stock data, supplier's data, customer's data, and they can also generate the bills!</p>
                             <div className='row'>
                                 <div className='col-5 d-flex justify-content-end'>
                                     <a href="https://github.com/smullalkar/Project-POS" ><img alt='img' src={require('../Components/github-icon.svg')} style={{ height: '30px', width: '30px' }}></img></a>
@@ -31,10 +31,11 @@ export default function Projects() {
                                 <div className='col'>
                                     <img className='mx-2' alt='img' src={require('../Components/react.svg')} style={{ height: '30px', width: '30px' }}></img>
                                     <img className='mx-2' alt='img' src={require('../Components/react-router.svg')} style={{ height: '30px', width: '30px' }}></img>
-                                    <img className='mx-2' alt='img' src={require('../Components/material-ui.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/bootstrap.svg')} style={{ height: '30px', width: '30px' }}></img>
                                     <img className='mx-2' alt='img' src={require('../Components/flask.svg')} style={{ height: '30px', width: '30px' }}></img>
                                     <img className='mx-2' alt='img' src={require('../Components/redux.svg')} style={{ height: '30px', width: '30px' }}></img>
                                     <img className='mx-2' alt='img' src={require('../Components/aws-ec2.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/mysql.svg')} style={{ height: '30px', width: '30px' }}></img>
                                 </div>
                             </div>
                         </div>

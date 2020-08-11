@@ -47,7 +47,7 @@ export default function Projects() {
                         <div className="card-body">
                             <h5 className="card-title" className={styles.projectTitle}>Marks Reccorder </h5>
                             <hr />
-                            <p className="card-text" className={styles.projectDes}>Student marks managment system!<br /> this application is made using react, react-router, material-ui, flask <br /> Mentain records of student's marks!</p>
+                            <p className="card-text" className={styles.projectDes}>Student marks managment system!<br /> this application is made using react, react-router, material-ui, <br/> and flask <br /> Mentain records of student's marks!</p>
                             <div className='row'>
                                 <div className='col-5 d-flex justify-content-end'>
                                     <a href="https://github.com/smullalkar/Marks_Recorder" ><img alt='img' src={require('../Components/github-icon.svg')} style={{ height: '30px', width: '30px' }}></img></a>
@@ -77,7 +77,7 @@ export default function Projects() {
                         <div className="card-body">
                             <h5 className="card-title" className={styles.projectTitle}>All In One </h5>
                             <hr />
-                            <p className="card-text" className={styles.projectDes}>A Fashion store!<br /> this application is made using react, react-router, bootstrap. <br /> Shop for Men, Women and Kids!</p>
+                            <p className="card-text" className={styles.projectDes}>A Fashion store!<br /> this application is made using react, react-router, <br/> and bootstrap. <br /> Shop for Men, Women and Kids!</p>
                             <div className='row'>
                                 <div className='col-5 d-flex justify-content-end'>
                                     <a href="https://github.com/smullalkar/Allinone" ><img alt='img' src={require('../Components/github-icon.svg')} style={{ height: '30px', width: '30px' }}></img></a>
@@ -104,7 +104,7 @@ export default function Projects() {
                         <div className="card-body">
                             <h5 className="card-title" className={styles.projectTitle}>Dream Job</h5>
                             <hr />
-                            <p className="card-text" className={styles.projectDes}>A Job Portal!<br /> this application is made using react, react-router, bootstrap, axios.<br /> You can search for job here.</p>
+                            <p className="card-text" className={styles.projectDes}>A Job Portal!<br /> this application is made using react, react-router, <br/> bootstrap, and axios.<br /> You can search for job here.</p>
                             <div className='row'>
                                 <div className='col-5 d-flex justify-content-end'>
                                     <a href="https://github.com/smullalkar/github-Jobs" ><img alt='img' className='' src={require('../Components/github-icon.svg')} style={{ height: '30px', width: '30px' }}></img></a>

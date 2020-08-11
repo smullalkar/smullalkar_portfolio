@@ -25,7 +25,7 @@ export default function Work() {
                 </div>
                 <div className='col'>
                     <h1 className={styles.work}  style={{ height:'160px', width:'160px',marginTop:'10px', border: '20px solid #FECD55', borderRadius: '100%' }}>
-                    <span style={{position:'relative', top:'40px'}}>190+</span>
+                    <span style={{position:'relative', top:'40px'}}>290+</span>
                     </h1>
                     <div className={styles.label}>
                         Git <br />

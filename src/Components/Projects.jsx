@@ -16,7 +16,7 @@ export default function Projects() {
                         <div className="card-body">
                             <h5 className="card-title" className={styles.projectTitle}>POS App</h5>
                             <hr />
-                            <p className="card-text" className={styles.projectDes}>Point of sale!<br /> very first end to end application built using react,redux,flask,and mysql <br /> Users can manage stocks, supplier, and customer's data along bill generator!</p>
+                            <p className="card-text" className={styles.projectDes}>Point of sale!<br /> very first end to end application built using react,redux,flask,and mysql <br /> Stock Management, Supplier's managemet, Customer management, and Bill generator!</p>
                             <div className='row'>
                                 <div className='col-5 d-flex justify-content-end'>
                                     <a href="https://github.com/smullalkar/Project-POS" ><img alt='img' src={require('../Components/github-icon.svg')} style={{ height: '30px', width: '30px' }}></img></a>

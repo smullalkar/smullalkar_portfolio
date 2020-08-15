@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/smullalkar_portfolio/static/css/main.df2209f4.chunk.css",
-    "main.js": "/smullalkar_portfolio/static/js/main.6b24ad56.chunk.js",
-    "main.js.map": "/smullalkar_portfolio/static/js/main.6b24ad56.chunk.js.map",
+    "main.js": "/smullalkar_portfolio/static/js/main.0991f8f7.chunk.js",
+    "main.js.map": "/smullalkar_portfolio/static/js/main.0991f8f7.chunk.js.map",
     "runtime-main.js": "/smullalkar_portfolio/static/js/runtime-main.22fd46f1.js",
     "runtime-main.js.map": "/smullalkar_portfolio/static/js/runtime-main.22fd46f1.js.map",
     "static/css/2.69121389.chunk.css": "/smullalkar_portfolio/static/css/2.69121389.chunk.css",
     "static/js/2.38e3e52a.chunk.js": "/smullalkar_portfolio/static/js/2.38e3e52a.chunk.js",
     "static/js/2.38e3e52a.chunk.js.map": "/smullalkar_portfolio/static/js/2.38e3e52a.chunk.js.map",
     "index.html": "/smullalkar_portfolio/index.html",
-    "precache-manifest.049819830b32a896b0a46b8d09675f04.js": "/smullalkar_portfolio/precache-manifest.049819830b32a896b0a46b8d09675f04.js",
+    "precache-manifest.ec022ee7d3e26389fba33ed7b83d13e1.js": "/smullalkar_portfolio/precache-manifest.ec022ee7d3e26389fba33ed7b83d13e1.js",
     "service-worker.js": "/smullalkar_portfolio/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/smullalkar_portfolio/static/css/2.69121389.chunk.css.map",
     "static/css/main.df2209f4.chunk.css.map": "/smullalkar_portfolio/static/css/main.df2209f4.chunk.css.map",
@@ -46,6 +46,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.38e3e52a.chunk.js",
     "static/css/main.df2209f4.chunk.css",
-    "static/js/main.6b24ad56.chunk.js"
+    "static/js/main.0991f8f7.chunk.js"
   ]
 }

@@ -16,7 +16,7 @@ export default function Projects() {
                         <div className="card-body">
                             <h5 className="card-title" className={styles.projectTitle}>Airbnb Clone</h5>
                             <hr />
-                            <p className="card-text" className={styles.projectDes}>Anywhere. Stays. Airbnb! <br /> An end to end application built using react,redux,flask,and mysql <br /> alont with oAuth login, payment gateway, email notification and maps integration</p>
+                            <p className="card-text" className={styles.projectDes}>Anywhere. Stays. Airbnb!<br /> An end to end application built using react,redux,flask,and mysql <br /> alont with oAuth login, payment gateway, email notification and maps integration</p>
                             <div className='row'>
                                 <div className='col-5 d-flex justify-content-end'>
                                     <a href="https://github.com/smullalkar/Airbnb_clone" ><img alt='img' src={require('../Components/github-icon.svg')} style={{ height: '30px', width: '30px' }}></img></a>
@@ -103,7 +103,7 @@ export default function Projects() {
                     </div>
                 </div>
                 <div className='col-lg-4 col-md-6 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
-                    <div className="card" style={{ borderRadius: ' 0 30px 0 30px' }}>
+                    <div className="card" style={{ borderRadius: ' 30px 0 30px 0' }}>
                         <img src={require('../Components/all-in-one.jpg')} className="card-img-top" alt="img" style={{ borderRadius: '30px 0 0 0', height: '250px', width: '100%', backgroundSize: 'cover' }} />
                         <div className="card-body">
                             <h5 className="card-title" className={styles.projectTitle}>All In One </h5>
@@ -157,7 +157,7 @@ export default function Projects() {
                     </div>
                 </div>
                 <div className='col-lg-4 col-md-6 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
-                    <div className="card" style={{ borderRadius: ' 0 30px 0 30px' }}>
+                    <div className="card" style={{ borderRadius: ' 30px 0 30px 0' }}>
                         <img src={require('../Components/covid-19.jpg')} className="card-img-top" alt="img" style={{ borderRadius: '30px 0 0 0', height: '250px', width: '100%', backgroundSize: 'cover' }} />
                         <div className="card-body">
                             <h5 className="card-title" className={styles.projectTitle}>COVID-19</h5>

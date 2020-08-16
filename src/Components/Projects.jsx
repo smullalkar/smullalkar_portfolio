@@ -103,7 +103,7 @@ export default function Projects() {
                     </div>
                 </div>
                 <div className='col-lg-4 col-md-6 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
-                    <div className="card" style={{ borderRadius: ' 30px 0 30px 0' }}>
+                    <div className="card" style={{ borderRadius: ' 0 30px 0 30px' }}>
                         <img src={require('../Components/all-in-one.jpg')} className="card-img-top" alt="img" style={{ borderRadius: '30px 0 0 0', height: '250px', width: '100%', backgroundSize: 'cover' }} />
                         <div className="card-body">
                             <h5 className="card-title" className={styles.projectTitle}>All In One </h5>
@@ -157,7 +157,7 @@ export default function Projects() {
                     </div>
                 </div>
                 <div className='col-lg-4 col-md-6 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
-                    <div className="card" style={{ borderRadius: ' 30px 0 30px 0' }}>
+                    <div className="card" style={{ borderRadius: ' 0 30px 0 30px' }}>
                         <img src={require('../Components/covid-19.jpg')} className="card-img-top" alt="img" style={{ borderRadius: '30px 0 0 0', height: '250px', width: '100%', backgroundSize: 'cover' }} />
                         <div className="card-body">
                             <h5 className="card-title" className={styles.projectTitle}>COVID-19</h5>

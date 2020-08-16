@@ -51,7 +51,10 @@ export default function Home() {
                 and lead to the growth of mine as well as the organisation i will work with.</p>
             </div>
             <br />
-            <br />
+            <a href='https://drive.google.com/drive/folders/1m3pP7NUlOxqr11ChWhQhliI-5LQ4gTBE?usp=sharing' class="btn btn-secondary m-auto text-center">Resume</a>
+            <br/>
+            <br/>
+            <br/>
             <div>
                 <div className='row'>
 

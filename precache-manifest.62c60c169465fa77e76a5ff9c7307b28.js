@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6947d8cbff3c463ffa48e5ab4e3b179",
+    "revision": "1ea1acd76cfa4738e5b01305c24159ed",
     "url": "/smullalkar_portfolio/index.html"
   },
   {
-    "revision": "4f6a74a4833b2dbf1019",
+    "revision": "af90476c815053d31822",
     "url": "/smullalkar_portfolio/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "5e6b9ec3c57543356897",
+    "revision": "a4fd881f117d0cb921d5",
     "url": "/smullalkar_portfolio/static/css/main.df2209f4.chunk.css"
   },
   {
-    "revision": "4f6a74a4833b2dbf1019",
-    "url": "/smullalkar_portfolio/static/js/2.1cb6fec8.chunk.js"
+    "revision": "af90476c815053d31822",
+    "url": "/smullalkar_portfolio/static/js/2.4a68cd8b.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/smullalkar_portfolio/static/js/2.1cb6fec8.chunk.js.LICENSE.txt"
+    "url": "/smullalkar_portfolio/static/js/2.4a68cd8b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e6b9ec3c57543356897",
-    "url": "/smullalkar_portfolio/static/js/main.66ae9a12.chunk.js"
+    "revision": "a4fd881f117d0cb921d5",
+    "url": "/smullalkar_portfolio/static/js/main.b02a1631.chunk.js"
   },
   {
     "revision": "77546001560ab0499138",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "da59016ad284594153d6a8184301f326",
     "url": "/smullalkar_portfolio/static/media/POS-Systems.da59016a.png"
+  },
+  {
+    "revision": "f9512e171768919abe133f6812cd0e02",
+    "url": "/smullalkar_portfolio/static/media/airbnb.f9512e17.png"
   },
   {
     "revision": "44f06f27dfae9c83a0a736d740adfebb",

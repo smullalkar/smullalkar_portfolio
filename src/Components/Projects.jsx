@@ -14,6 +14,37 @@ export default function Projects() {
                     <div className="card" style={{ borderRadius: '0 30px 0 30px' }}>
                         <img src={require('../Components/POS-Systems.png')} className="card-img-top" alt="img" style={{ borderRadius: '0 30px 0 0', height: '250px', width: '100%', backgroundSize: 'cover' }} />
                         <div className="card-body">
+                            <h5 className="card-title" className={styles.projectTitle}>Airbnb Clone</h5>
+                            <hr />
+                            <p className="card-text" className={styles.projectDes}>An end to end application built using react,redux,flask,and mysql <br /> alont with oAuth login, payment gateway, email notification and maps integration</p>
+                            <div className='row'>
+                                <div className='col-5 d-flex justify-content-end'>
+                                    <a href="https://github.com/smullalkar/Airbnb_clone" ><img alt='img' src={require('../Components/github-icon.svg')} style={{ height: '30px', width: '30px' }}></img></a>
+                                </div>
+                                <div className='col-7 d-flex justify-content-start'>
+                                    <FontAwesomeIcon icon={faLink} style={{ color: '#707070', marginRight: '5px', position: 'relative', top: '6px' }} />
+                                    <a href='https://airbnbclone-alpha.vercel.app/' style={{ color: '#707070' }}> Demo Link</a>
+                                </div>
+                            </div>
+                            <hr />
+                            <div className='row'>
+                                <div className='col'>
+                                    <img className='mx-2' alt='img' src={require('../Components/react.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/react-router.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/bootstrap.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/flask.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/redux.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/aws-ec2.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                    <img className='mx-2' alt='img' src={require('../Components/mysql.svg')} style={{ height: '30px', width: '30px' }}></img>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className='col-lg-4 col-md-6 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
+                    <div className="card" style={{ borderRadius: '0 30px 0 30px' }}>
+                        <img src={require('../Components/POS-Systems.png')} className="card-img-top" alt="img" style={{ borderRadius: '0 30px 0 0', height: '250px', width: '100%', backgroundSize: 'cover' }} />
+                        <div className="card-body">
                             <h5 className="card-title" className={styles.projectTitle}>POS App</h5>
                             <hr />
                             <p className="card-text" className={styles.projectDes}>Point of sale!<br /> very first end to end application built using react,redux,flask,and mysql <br /> Stock Management, Supplier's managemet, Customer management, and Bill generator!</p>
@@ -23,7 +54,7 @@ export default function Projects() {
                                 </div>
                                 <div className='col-7 d-flex justify-content-start'>
                                     <FontAwesomeIcon icon={faLink} style={{ color: '#707070', marginRight: '5px', position: 'relative', top: '6px' }} />
-                                    <a href='https://posproject.smullalkar.tech' style={{ color: '#707070' }}> Demo Link</a>
+                                    <a href='https://posproject.smullalkar.online' style={{ color: '#707070' }}> Demo Link</a>
                                 </div>
                             </div>
                             <hr />
@@ -54,7 +85,7 @@ export default function Projects() {
                                 </div>
                                 <div className='col-7 d-flex justify-content-start'>
                                     <FontAwesomeIcon icon={faLink} style={{ color: '#707070', marginRight: '5px', position: 'relative', top: '6px' }} />
-                                    <a href='https://marksrecordproject.smullalkar.tech' style={{ color: '#707070' }}> Demo Link</a>
+                                    <a href='https://marksrecordproject.smullalkar.online' style={{ color: '#707070' }}> Demo Link</a>
                                 </div>
                             </div>
                             <hr />
@@ -84,7 +115,7 @@ export default function Projects() {
                                 </div>
                                 <div className='col-7 d-flex justify-content-start'>
                                     <FontAwesomeIcon icon={faLink} style={{ color: '#707070', marginRight: '5px', position: 'relative', top: '6px' }} />
-                                    <a href='https://allinoneproject.smullalkar.tech' style={{ color: '#707070' }}> Demo Link</a>
+                                    <a href='https://allinoneproject.smullalkar.online' style={{ color: '#707070' }}> Demo Link</a>
                                 </div>
                             </div>
                             <hr />
@@ -111,7 +142,7 @@ export default function Projects() {
                                 </div>
                                 <div className='col-7 d-flex justify-content-start'>
                                     <FontAwesomeIcon icon={faLink} style={{ color: '#707070', marginRight: '5px', position: 'relative', top: '6px' }} />
-                                    <a href='https://githubjobsproject.smullalkar.tech' style={{ color: '#707070' }}> Demo Link</a>
+                                    <a href='https://githubjobsproject.smullalkar.online' style={{ color: '#707070' }}> Demo Link</a>
                                 </div>
                             </div>
                             <hr />
@@ -138,7 +169,7 @@ export default function Projects() {
                                 </div>
                                 <div className='col-7 d-flex justify-content-start'>
                                     <FontAwesomeIcon icon={faLink} style={{ color: '#707070', marginRight: '5px', position: 'relative', top: '6px' }} />
-                                    <a href='https://covidproject.smullalkar.tech' style={{ color: '#707070' }}> Demo Link</a>
+                                    <a href='https://covidproject.smullalkar.online' style={{ color: '#707070' }}> Demo Link</a>
                                 </div>
                             </div>
                             <hr />
